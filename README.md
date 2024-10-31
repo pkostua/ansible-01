@@ -15,6 +15,29 @@ https://github.com/netology-code/mnt-homeworks/blob/MNT-video/08-ansible-01-base
 ![image](https://github.com/user-attachments/assets/65ba4b01-b22a-48d3-af59-76ba6dc7ec0c)
 ## 8. Запускаем с запросом пароля
 ![image](https://github.com/user-attachments/assets/2316a2b6-6478-4c8d-b5d9-e933ab497945)
+## 9. Список плагинов для подключения
+![image](https://github.com/user-attachments/assets/463816e2-8477-4bcc-8ee4-feb0f13d5ae0)
+## 10. Добавляю новый хост
+```
+---
+el:
+  hosts:
+    centos7:
+      ansible_connection: docker
+deb:
+  hosts:
+    ubuntu:
+      ansible_connection: docker
+local:
+  hosts:
+    localhost:
+      ansible_connection: local
+```
+
+## 11. Запускаю
+![image](https://github.com/user-attachments/assets/1f5a5761-0333-4e5e-9b49-11bd56837a3a)
+
+
 
 
 
