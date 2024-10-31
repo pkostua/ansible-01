@@ -37,6 +37,17 @@ local:
 ## 11. Запускаю
 ![image](https://github.com/user-attachments/assets/1f5a5761-0333-4e5e-9b49-11bd56837a3a)
 
+# *
+## 1*. Расшифровка перменных
+![image](https://github.com/user-attachments/assets/56c8eacd-9042-4ee5-9048-9be86d98b6f0)
+
+## 2*. Шифрую строку, добавляю в файл
+![image](https://github.com/user-attachments/assets/d12e3a94-73cd-4fb2-977b-b9dcb6608eec)
+
+## 3*. Запускаю
+![image](https://github.com/user-attachments/assets/5874f16d-5ead-49f9-b1e5-96096282c296)
+
+
 
 
 
