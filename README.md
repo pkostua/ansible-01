@@ -46,7 +46,8 @@ local:
 
 ## 3*. Запускаю
 ![image](https://github.com/user-attachments/assets/5874f16d-5ead-49f9-b1e5-96096282c296)
-
+## 4-5*. Скрипт запуска
+https://github.com/pkostua/ansible-01/blob/master/src/play.sh
 
 
 
